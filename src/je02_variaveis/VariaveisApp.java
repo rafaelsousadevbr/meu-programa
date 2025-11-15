@@ -16,7 +16,7 @@ public class VariaveisApp {
         // Declaração válida de variáveis
         int numero$um = 1;
         int numero1 = 1;
-        int numeroum = 1; //ou numeroUm
+        int numeroUm = 1;
         int longo = 1;
     }
 }
