@@ -1,4 +1,4 @@
-package jr04_palavras_reservadas;
+package je04_palavras_reservadas;
 
 public class TiposPrimitivos {
     public static void main(String[] args) {
